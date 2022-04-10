@@ -1,0 +1,7 @@
+
+config BR2_PACKAGE_FINAL_PROJECT
+	bool "final-project"
+	help
+	  Includes executables for the AESD final project. It includes interfacing a distance and 
+	  temperature & humidity sensor via I2C along with supporting client socket communication for 
+	  BeagleBone Black.
