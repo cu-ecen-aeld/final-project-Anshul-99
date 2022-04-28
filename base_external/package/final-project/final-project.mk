@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-FINAL_PROJECT_VERSION = 6b3b04a5299e5f927d29103ddb9bb395db710073 #Commit Version number
+FINAL_PROJECT_VERSION = 3eab4260901e5c0bbf7fd39029b81219243312c0 #Commit Version number
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
