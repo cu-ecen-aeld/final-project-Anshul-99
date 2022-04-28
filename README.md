@@ -7,4 +7,4 @@
 [Link](https://github.com/cu-ecen-aeld/final-project-vishalraj3112/wiki/Project-Schedule) to project schedule
 
 ## Project Demo video
-[Link](https://github.com/cu-ecen-aeld/final-project-Anshul-99/wiki/Anshul's-Final-Project-Video)
+[Link](https://github.com/cu-ecen-aeld/final-project-Anshul-99/wiki/Anshul's-Final-Project-Video) to demo video
